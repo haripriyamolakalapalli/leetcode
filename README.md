@@ -12,6 +12,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -21,6 +22,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
