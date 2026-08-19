@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0258-add-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/haripriyamolakalapalli/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
