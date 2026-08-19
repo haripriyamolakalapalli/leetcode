@@ -7,6 +7,7 @@
 | [0136-single-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0136-single-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/haripriyamolakalapalli/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3099-harshad-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/3099-harshad-number) |
 ## Recursion
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +80,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0202-happy-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
