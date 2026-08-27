@@ -16,6 +16,7 @@
 | [0287-find-the-duplicate-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/haripriyamolakalapalli/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Number Theory
 |  |
