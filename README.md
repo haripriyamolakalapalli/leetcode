@@ -55,6 +55,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0326-power-of-three) |
@@ -233,5 +234,6 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
