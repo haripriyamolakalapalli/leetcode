@@ -281,6 +281,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -306,6 +307,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -321,12 +323,14 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Lifting
 |  |
