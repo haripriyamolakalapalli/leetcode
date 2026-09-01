@@ -283,6 +283,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -307,6 +308,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -321,6 +323,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -339,4 +342,12 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
