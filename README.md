@@ -223,6 +223,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0739-daily-temperatures) |
@@ -281,6 +282,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -307,6 +309,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -323,6 +326,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haripriyamolakalapalli/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
